@@ -34,7 +34,7 @@
     - 대출 중개 플랫폼 구축
     - 텍스트 광고 플랫폼 관리
     - 템플릿형 쇼핑몰 관리
-###### 야놀자펜션
+###### <a href="https://github.com/KimYoungWoong/intro/blob/master/pension.md#%EC%95%BC%EB%86%80%EC%9E%90%ED%8E%9C%EC%85%98-admin">야놀자펜션</a>
     - 야놀자펜션 Admin
     - 야놀자펜션 Application Rest API
     - 야놀자펜션 Web
