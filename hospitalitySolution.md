@@ -1,4 +1,4 @@
-#Guest Portal
+# Guest Portal
 - Frontend : Vue.js, Nuxt,js, SCSS
 - Backend  : Node.js, Hapi
 - 데이터베이스: Mysql
