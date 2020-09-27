@@ -4,11 +4,15 @@
 - Database: Mysql
 
 
+
+
     야놀자펜션에 모든 서비스를 관리하는 사이트.
     야놀자펜션 내 신규 기능 개발과 맞춰 사이트 유지보수
 # 야놀자펜션 Application Rest API
 - Backend : PHP, Codeigniter
 - Database: Mysql
+
+
 
     
     야놀자펜션 Application 에서 사용하는 API
@@ -20,6 +24,8 @@
 - Backend : PHP, Codeigniter
 - Database: Mysql
 
+
+
     
     야놀자펜션 웹사이트
 # 야놀자펜션 Mobile Web
@@ -27,6 +33,8 @@
 - Backend : PHP, Codeigniter
 - Database: Mysql
 
+    
+    
     
     야놀자펜션 모바일 웹사이트
     숙소 검색과, 숙소 정보, 예약시스템 제공 
@@ -36,6 +44,8 @@
 - Database: Mysql
 
 
+    
+    
     야놀자와 G펜션 객실 현황 연동을 시작으로,
     야놀자펜션의 컨텐츠와 재고를 Open API 를 제공해, 여러 제휴사에 제공. 
     네이버와 연동 시 상호 규격을 확인하여 Restful API 작성
@@ -45,6 +55,8 @@
 - Database: Mysql
 
 
+    
+    
     펜션 개별 홈페이지에 예약 시스템 제공.
     iFrame 형태 또는 js 와 css 를 import 하여 사용하는 형태로,
     펜션주에게는 야놀자펜션 System 과 재고 연동되어 편리함을 제공하고,
@@ -55,6 +67,8 @@
 - Database: Mysql
 
     
+    
+    
     야놀자펜션 내 컨텐츠 Database 를 활용하여, 펜션 홈페이지 형태의 사이트를 각 업체별로 제공.
 # 야놀자펜션 제휴기업 복지몰
 - Frontend : HTML, CSS, jQuery
@@ -62,6 +76,8 @@
 - Database: Mysql
 
 
+    
+    
     야놀자펜션과 야놀자의 인벤토리를 제휴된 기업별로 할인된 가격에 제공하는 서비스.
     Frontend 는 외주를 통해 제공받았으며, Front 와 Mashup, Service API 를 분리하여 구성
     Mashup API 에서 야놀자펜션과 야놀자의 인벤토리를 하나로 구성하여 유저에게 제공.
