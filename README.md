@@ -31,7 +31,7 @@ Mysql
 Route53,    
 Elastic Beanstalk, EC2, S3, SNS, Cloud Front
 SQS, Kinesis, Cloud Watch, X-ray, API Gateway, Lambda,
-ElasticSearch, Cloud Search, IoT, Appsync,
+ElasticSearch, Cloud Search,
 RDS, DynamoDB, Redis,
 KMS
 ```
