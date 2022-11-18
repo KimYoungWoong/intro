@@ -21,7 +21,7 @@ Backend  : PHP, Node.js, Typescript
 ###### Framework
 ```
 Frontend : Nuxt.js
-Backend  : Codeigniter, Hapi, Nestjs
+Backend  : Codeigniter, Hapi, NestJS
 ```
 ###### Database
 ```
@@ -29,10 +29,11 @@ Mysql
 ```
 ###### AWS
 ```
-Route53,    
-Elastic Beanstalk, EC2, S3, SNS, CloudFront, ECS,
-SQS, Kinesis, CloudWatch, APIGateway, Lambda,
-ElasticSearch, CloudSearch,
+Route53, S3,
+EB, EC2, ECS, APIGateway, Lambda,
+CloudFront,
+SQS, Kinesis,
+CloudWatch, ElasticSearch,
 RDS, DynamoDB, Redis,
 KMS
 ```
