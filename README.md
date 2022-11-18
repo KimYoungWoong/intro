@@ -2,8 +2,9 @@
 ```
 한 회사에 오랜 기간 재직하며, 서비스 유지 보수만 진행한 것이 아니라,
 끊임없이 신규 기능 및 프로젝트를 진행하며 다양한 경험을 했습니다.
-Frontend 는 Vue.js, Nuxt.js 의 경험이 있고,
-Backend 는 PHP Codeigniter, Node.js Hapi 를 이용하여 서비스를 구축한 경험이 있습니다.
+FE 는 Vue.js, Nuxt.js 의 경험이 있고,
+BE 는 PHP (Codeigniter), NodeJS (Hapi), Typescript(NestJS) 를 이용하여 서비스를 구축한 경험이 있습니다.
+
 개발을 진행하기 전 서비스부터 이해하고 개발을 진행해야 더 나은 서비스를 만들것이라 생각합니다.
 ```
 # 경력
