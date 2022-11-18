@@ -15,12 +15,12 @@ Backend 는 PHP Codeigniter, Node.js Hapi 를 이용하여 서비스를 구축�
 ###### Programming language
 ```
 Frontend : HTML, CSS, SCSS, jQuery, Vue.js
-Backend  : PHP, Node.js
+Backend  : PHP, Node.js, Typescript
 ```
 ###### Framework
 ```
 Frontend : Nuxt.js
-Backend  : Codeigniter, Hapi
+Backend  : Codeigniter, Hapi, Nestjs
 ```
 ###### Database
 ```
@@ -29,9 +29,9 @@ Mysql
 ###### AWS
 ```
 Route53,    
-Elastic Beanstalk, EC2, S3, SNS, Cloud Front
-SQS, Kinesis, Cloud Watch, X-ray, API Gateway, Lambda,
-ElasticSearch, Cloud Search,
+Elastic Beanstalk, EC2, S3, SNS, CloudFront, ECS,
+SQS, Kinesis, CloudWatch, APIGateway, Lambda,
+ElasticSearch, CloudSearch,
 RDS, DynamoDB, Redis,
 KMS
 ```
