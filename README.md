@@ -63,8 +63,7 @@ Jenkins
 - [야놀자펜션 ISMS 심사](https://github.com/KimYoungWoong/intro/blob/master/pension.md#%EC%95%BC%EB%86%80%EC%9E%90%ED%8E%9C%EC%85%98-isms-%EC%8B%AC%EC%82%AC) 
 
 #### Hospitality Solution
-- [Guest Portal](https://github.com/KimYoungWoong/intro/blob/master/hospitalitySolution.md#guest-portal)
-- [In Room Control](https://github.com/KimYoungWoong/intro/blob/master/hospitalitySolution.md#in-room-control)
+- [PASS](https://github.com/KimYoungWoong/intro/blob/master/hospitalitySolution.md#guest-portal)
 - [KT Gigagenie Web Application](https://github.com/KimYoungWoong/intro/blob/master/hospitalitySolution.md#kt-gigagenie-web-application)
 - [IoT Hub](https://github.com/KimYoungWoong/intro/blob/master/hospitalitySolution.md#iot-hub)
 - [Room Management System](https://github.com/KimYoungWoong/intro/blob/master/hospitalitySolution.md#room-management-system)
